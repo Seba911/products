@@ -1,0 +1,24 @@
+{
+  "producto": [
+    {
+      "id": 1,
+      "name": "Guitarra Eléctrica Epiphone",
+      "price": 25000
+    },
+    {
+      "id": 2,
+      "name": "Bajo Eléctrico para Jazz",
+      "price": 14000
+    },
+    {
+      "id": 3,
+      "name": "Licuadora Peabody PE-LN800",
+      "price": 5000
+    },
+    {
+      "id": 1646612342887,
+      "name": "Notebook Intel I6",
+      "price": 75000
+    }
+  ]
+}
